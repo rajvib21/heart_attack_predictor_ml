@@ -40,7 +40,7 @@ heartattackpredictor/
 
 🛠️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/heartattackpredictor.git
+git clone https://github.com/rajvib21/heart_attack_predictor_ml.git
 cd heartattackpredictor
 
 2️⃣ Install Dependencies
